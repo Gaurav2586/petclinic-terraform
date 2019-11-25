@@ -6,7 +6,7 @@ VPC setup
 Public/Private - Subnetting
 Routetable
 Instance with public/Private subnet
-Jenkins Docker cutomize Image whihc run over public subnet instance
+Jenkins Docker cutomize Image which run over public subnet instance
 Ansible install on public subnet instance
 etc
 ```
